@@ -1,7 +1,7 @@
 # Benjamin Murga
 
 <p align="left">
-  <strong>Ingeniería Comercial & Software Architecture · Agentic Workflows & Digital Craftsmanship</strong>
+  <strong>Estudiante de 4to año de Ingeniería Comercial · Product Engineering, Automation & AI Workflows</strong>
 </p>
 
 <p align="left">
@@ -13,11 +13,40 @@
 
 ---
 
-### Sobre mí
+### Perfil Profesional
 
-Combino el pensamiento estratégico y la visión de producto de la **Ingeniería Comercial** con la ejecución técnica rigurosa en **arquitectura web, ecosistemas de agentes de IA y experiencias digitales interactivas**.
+Soy estudiante de **4to año de Ingeniería Comercial**, apasionado por la innovación aplicada y la creación de soluciones digitales que conectan directamente con **necesidades validadas del mercado**.
 
-Mi enfoque rechaza los patrones genéricos de desarrollo ("AI slop") en favor de la precisión estética, rendimiento medible y solidez arquitectónica inspirada en estándares como el *Human Interface Guidelines* de Apple y el diseño editorial suizo.
+Mi propuesta de valor radica en un perfil híbrido poco común: fusiono la **visión estratégica de negocios, marketing analítico y diseño de modelos de producto** con la ejecución técnica avanzada en **desarrollo web, sistemas agénticos de inteligencia artificial y automatización de procesos**.
+
+No construyo software en el vacío. Mi punto de partida es siempre la economía unitaria, el análisis de demanda y la optimización de conversión, traduciendo problemas complejos de negocio en productos digitales intuitivos, escalables y con alto estándar visual.
+
+---
+
+### Áreas de Especialización & Enfoque
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>📈 Estrategia Comercial & Marketing</h4>
+      <p>
+        Diseño de modelos de negocio, detección de oportunidades de mercado y estrategias de posicionamiento orientadas a conversión (CRO, SEO/AEO/GEO y retención de usuarios).
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🤖 Automatización & Inteligencia Artificial</h4>
+      <p>
+        Implementación de flujos agénticos, automatización de operaciones críticas e integración de modelos de lenguaje para resolver ineficiencias y multiplicar la productividad.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🏛️ Arquitectura Web & Artesanía Digital</h4>
+      <p>
+        Desarrollo de interfaces de alto impacto inspiradas en los estándares de Apple Design, con microinteracciones fluidas, optimización móvil y blindaje contra patrones genéricos (Anti-AI).
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -56,22 +85,23 @@ Mi enfoque rechaza los patrones genéricos de desarrollo ("AI slop") en favor de
 
 ---
 
-### Principios de Ingeniería & Diseño
+### Filosofía de Trabajo
 
-- **Criterio antes que código:** Comprender el modelo de negocio, el usuario y los límites del sistema antes de escribir la primera línea.
-- **Anti-AI Design Guardrails:** Erradicación de degradados púrpuras genéricos, exceso de emojis en títulos, *div-soups* y componentes no intencionales.
-- **Rendimiento y Accesibilidad:** Cumplimiento de WCAG 2.2 AA, navegación por teclado y D-Pad, y respeto estricto a `prefers-reduced-motion`.
-- **Ecosistemas de Agentes de IA:** Construcción de habilidades modulares estructuradas para orquestadores modernos (Pi, Codex, Claude Code, Cursor).
+- **Product-Market Fit antes de la primera línea:** Validar hipótesis comerciales y dolor real de usuario antes de sobre-diseñar arquitecturas técnicas.
+- **Automatización inteligente:** Si un proceso es repetitivo o manual, se optimiza mediante pipelines, agentes de IA o integraciones de software.
+- **Rigor sin atajos ("Anti-Slop"):** Cuidado obsesivo por el detalle tipográfico, la jerarquía visual y la experiencia de usuario tangible.
+- **Impacto medible:** El éxito de una web o aplicación se mide en tracción, satisfacción y valor real aportado al usuario final.
 
 ---
 
-### Ecosistema Técnico
+### Ecosistema Técnico & Comercial
 
 <p align="left">
+  <code>Negocios & Estrategia</code>: Ingeniería Comercial · Marketing Estratégico · Modelos de Negocio · SEO / AEO / GEO · Growth & CRO<br/>
+  <code>IA & Automatización</code>: Flujos Agénticos · Prompt & Skill Engineering · Integración de LLMs · Automatización de Procesos<br/>
   <code>Frontend & 3D</code>: TypeScript · JavaScript · Three.js · WebGL · GSAP · CSS Grid/Flexbox · View Transitions API<br/>
-  <code>Arquitectura & CMS</code>: WordPress FSE (Full Site Editing) · theme.json · PHP Seguro · REST & Headless APIs<br/>
-  <code>Rigor & Calidad</code>: Node.js · Bun · Biome · Git · GitHub Actions CI/CD · DOM Syntactic Auditing<br/>
-  <code>Estrategia & IA</code>: Ingeniería Comercial · Agentic Workflows · Prompt & Skill Engineering · SEO / AEO / GEO
+  <code>CMS & Plataformas</code>: WordPress FSE (Full Site Editing) · theme.json · PHP Seguro · REST & Headless APIs<br/>
+  <code>Herramientas & Calidad</code>: Node.js · Bun · Git · GitHub Actions CI/CD · DOM Syntactic Auditing
 </p>
 
 ---
