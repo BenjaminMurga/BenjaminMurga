@@ -109,5 +109,5 @@ No construyo software en el vacío. Mi punto de partida es siempre la economía 
 ### Conectar
 
 - 🌐 **Web & Demos:** [benjaminmurga.github.io/WebAtelier](https://benjaminmurga.github.io/WebAtelier/)
-- 💼 **LinkedIn:** [linkedin.com/in/benjamin-murga](https://linkedin.com) *(actualiza con tu URL directa)*
+- 💼 **LinkedIn:** [linkedin.com/in/benjamin-murga](https://linkedin.com) 
 - ✉️ **Email:** [benjamin.a.murga@gmail.com](mailto:benjamin.a.murga@gmail.com)
